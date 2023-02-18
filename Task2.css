@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://1.bp.blogspot.com/-FjF-zCnXkBE/YTnwTwjGk-I/AAAAAAAABFU/op04qUdx8xM5QA8Vh4oY6J-SKpagPuo2gCLcBGAsYHQ/s1920/plain-black-wallpaper.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1600px;
+}
+h1 {
+    text-align: center; 
+    color: rgb(239, 215, 189);
+    text-shadow: 2px 2px rgb(91, 57, 11);
+    border: rgb(249, 207, 148) solid 2px;
+    margin: 50px 50px;
+    padding: 20px;
+    background-color: rgb(121, 83, 39);
+}
+h2 {
+    color: rgba(130, 46, 36, 0.977);
+    text-decoration: underline;
+}
+h3 {
+    color: white;
+    font-size: 19px;
+}
+.Name{
+    color: rgb(112, 24, 195);
+    font-size: 25px;
+    font-weight: bold;
+}
+a {
+    color: rgb(97, 97, 239);
+}
+img {
+    color: white;
+}
+th {
+    color: white;
+    font-size: 16px;
+}
+table,th,td {
+    border: 1px solid;
+    color: white;
+    padding: 10px;
+}
